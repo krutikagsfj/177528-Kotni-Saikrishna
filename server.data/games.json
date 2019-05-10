@@ -1,0 +1,32 @@
+{
+    
+"posts":[
+
+    {
+        "id": 1,
+        "gname":"shooting",
+        "price":105
+    },
+    {
+        "id": 2,
+        "gname":"Angry Bird",
+        "price":95
+    },
+    {
+        "id": 3,
+        "gname":"Temple Run",
+        "price":105
+    },
+    {
+        "id": 4,
+        "gname":" Bike Race",
+        "price":90
+    },
+    {
+        "id": 5,
+        "gname":"Air control",
+        "price":800
+    }
+
+]
+}
